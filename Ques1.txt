@@ -1,0 +1,11 @@
+Qno1.List out the features of HTML5
+Sol: The features of HTML5 are following:-
+	* Audio and video support		
+	* Canvas elements
+	* Geolocation API									
+	* local storage
+	* Responsive images			
+	* web workers
+	* Drag and Drop API			
+	* Semantics elements
+	* 	
